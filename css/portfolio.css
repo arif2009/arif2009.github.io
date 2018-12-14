@@ -33,6 +33,9 @@ h2 {
 .text-black{
     color: #000;
 }
+.text-blue{
+    color: #007bff;
+}
 .progress-list li{
     height: 22px;
     margin-bottom: 9px;
