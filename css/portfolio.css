@@ -4,6 +4,10 @@ body {
   color: #333;
 }
 
+body.modal-open nav {
+  padding-right: 1rem !important;
+}
+
 h1,
 h2,
 h3,
